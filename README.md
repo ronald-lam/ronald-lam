@@ -5,7 +5,7 @@
 - <b>Linux</b>
   - [Modifying file permissions in Linux](https://github.com/ronald-lam/Linux)
 - <b>SQL</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Applying filters to SQL queries](https://github.com/ronald-lam/sql)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
