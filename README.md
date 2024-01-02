@@ -7,7 +7,7 @@
 - <b>SQL</b>
   - [Applying filters to SQL queries](https://github.com/ronald-lam/sql)
 - <b>Python</b>
-  - [Random Password Generator)](https://github.com/ronald-lam/password-generator)
+  - [Random Password Generator](https://github.com/ronald-lam/password-generator)
 
 <h2>🧾 Certifications:</h2>
 
