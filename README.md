@@ -8,6 +8,8 @@
   - [Applying filters to SQL queries](https://github.com/ronald-lam/sql)
 - <b>Python</b>
   - [Random Password Generator](https://github.com/ronald-lam/password-generator)
+- <b>Active Directory</b>
+  - [Active Directory mini-guide](https://github.com/ronald-lam/activedirectory)
 
 <h2>🧾 Certifications:</h2>
 
