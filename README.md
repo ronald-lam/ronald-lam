@@ -2,7 +2,7 @@
 <br/>
 An Accountant switching careers to <strong>Computer Networking</strong></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Linux</b>
   - [Modifying file permissions in Linux](https://github.com/ronald-lam/Linux)
