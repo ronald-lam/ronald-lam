@@ -20,5 +20,6 @@ An Accountant switching careers to <strong>Information Technology</strong></h1>
 - <b>[Wireshark for Beginners: TCP IP Protocol Fundamentals](https://coursera.org/share/1b6619fe69629294043de1ca4cc0b086)</b>
 - <b>[Wireshark for Beginners: Capture Packets](https://coursera.org/share/6e8b929f9dcb0e8dedf16d0aa73b7cfc)</b> -->
 - <b>[CompTIA A+](https://www.credly.com/badges/b7b623ab-d128-49e0-bf81-93285d2381e6/public_url)</b>
+- <b>[Active Directory mini-guide](https://github.com/ronald-lam/activedirectory)</b>
 
 <h2> 🤳 Connect with me on <a href="https://www.linkedin.com/in/ronaldmlam/">LinkedIn</a></h2>
