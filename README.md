@@ -2,6 +2,12 @@
 <br/>
 An Accountant switching careers to <strong>Information Technology</strong></h1>
 
+## Welcome to My GitHub 👋
+- 🚀 Transitioning from Accounting to IT with hands-on experience in system administration and networking
+- 🧰 Key Skills: Active Directory, Linux, VirtualBox, Network Setup and Configuration
+- 📜 Certifications: CompTIA A+, CCNA (in progress)
+- 🔍 Open to connecting and collaborating on IT projects!
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Linux</b>
