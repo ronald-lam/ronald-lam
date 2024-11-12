@@ -28,6 +28,7 @@ An Accountant switching careers to <strong>Information Technology</strong></h1>
 - <b>[Wireshark for Beginners: Capture Packets](https://coursera.org/share/6e8b929f9dcb0e8dedf16d0aa73b7cfc)</b> 
 -->
 - <a href='https://www.credly.com/badges/d99708a3-e151-47a2-8596-dba25cc6c5f6/public_url'>Google IT Support Professional</a>
+<br />
 - <a href='https://www.credly.com/badges/b7b623ab-d128-49e0-bf81-93285d2381e6/public_url'>CompTIA A+</a>
 
 <h2> 🤳 Connect with me on <a href="https://www.linkedin.com/in/ronaldmlam/">LinkedIn</a></h2>
